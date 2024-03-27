@@ -19,18 +19,6 @@ I study AI of all types, study frameworks for working with it, study training di
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/ehristoforu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg](https://www.svgrepo.com/show/353655/discord-icon.svg)" /> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ehristoforu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/23517432/ehristoforu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/ehristoforu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehristoforu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/ehristoforu/TensorLM-webui" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ehristoforu&repo=TensorLM-webui&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"></a></div>
-
 ---
 
 ### Support Me
