@@ -8,7 +8,9 @@ I study AI of all types, study frameworks for working with it, study training di
 
 * 🖥️  See my portfolio at [🤗 HF.co](http://huggingface.co/ehristoforu)
 * ✉️  You can contact me at [evgeniyhristo@gmail.com](mailto:evgeniyhristo@gmail.com)
-* 🚀  I'm currently working on [Stable DIffusion models: Fluently/Fluently XL](http://civitai.com/user/ehristoforu/models)
+* 🚀  I'm currently working on:
+    - [TensorLM-webui](https://github.com/ehristoforu/TensorLM-webui/tree/dev)
+    - [Stable DIffusion models: Fluently/Fluently XL](http://civitai.com/user/ehristoforu/models)
 * 🧠  I'm learning the Streamlit framework
 
 ### Skills
