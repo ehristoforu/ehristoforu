@@ -25,4 +25,4 @@ I study AI of all types, study frameworks for working with it, study training di
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/ehristoforu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://www.donationalerts.com/r/ehristoforu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
